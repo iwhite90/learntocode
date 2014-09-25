@@ -1,0 +1,29 @@
+HTML
+
+Tags - h1
+
+Head and body
+
+Title
+
+divs
+
+block and inline elements
+
+spans
+
+CSS
+
+link element
+
+styling elements - body and h1
+
+html attributes - class
+
+styling classes - CSS class selector
+
+nested styling
+
+pseudo-selectors - hover
+
+w3schools

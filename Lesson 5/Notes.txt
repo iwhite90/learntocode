@@ -1,0 +1,25 @@
+HTML img tag
+
+setting image src attribute in JavaScript
+
+relative and absolute paths
+
+adding more cards to our array
+
+using a counter to track the current card index
+
+initialise the first cards from the array, rather than hard code the HTML
+
+the window.onload function
+
+returning a value from a function
+
+assigning a variable to the return value of a function
+
+using a flag variable to track state
+
+Boolean operators &&, || and !
+
+returning early from a function
+
+Math.random and Math.floor

@@ -1,0 +1,15 @@
+Booleans and expressions evaluating to booleans
+
+using results of expressions as function arguments
+
+chaining expressions
+
+making utility functions
+
+setting DOM properties using our utility functions
+
+object literals
+
+creating and initialising arrays
+
+refactoring to use object array

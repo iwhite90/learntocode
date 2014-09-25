@@ -1,0 +1,30 @@
+<html>
+<head>
+  <title>Trek Trumps</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Trek Trumps</h1>
+  <div class="score"><span id="num">0</span> / <span id="den">0</span></div>
+  <div class="card" id="card1">
+    <div class="title"></div>
+    <div><img class="picture"/></div>
+    <div class="stat" onclick="submitAnswer(this);">Intellect: <span class="intellect"></span></div>
+    <div class="stat" onclick="submitAnswer(this);">Strength: <span class="strength"></span></div>
+    <div class="stat" onclick="submitAnswer(this);">Cunning: <span class="cunning"></span></div>
+    <div class="stat" onclick="submitAnswer(this);">Age: <span class="age"></span></div>
+    <div class="stat" onclick="submitAnswer(this);">Haminess: <span class="haminess"></span></div>
+  </div>
+  <div class="card" id="card2">
+    <div class="title"></div>
+    <div><img class="picture"/></div>
+    <div class="stat">Intellect: <span class="intellect"></span></div>
+    <div class="stat">Strength: <span class="strength"></span></div>
+    <div class="stat">Cunning: <span class="cunning"></span></div>
+    <div class="stat">Age: <span class="age"></span></div>
+    <div class="stat">Haminess: <span class="haminess"></span></div>
+  </div>
+  <input type="submit" id="nextRoundButton" value="Next Round!" onclick="startNextRound();" style="display: none;"/>
+  <script type="text/javascript" src="script.js"></script>
+</body>
+</html>

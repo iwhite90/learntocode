@@ -1,0 +1,40 @@
+JavaScript
+
+script tag
+
+alert and console.log
+
+tag ids
+
+objects and variables
+
+the document object model
+
+functions - built in functions on the document object - getElementById
+
+properties on objects - element.style.display
+
+setting property values
+
+getting property values
+
+the onclick attribute, to call JavaScript from HTML
+
+the 'this' keyword
+
+writing functions
+
+loops - increment operator
+
+arrays - accessing by index
+
+conditionals - double equals
+
+parseInt built in function
+
+DOM className and innerHTML properties
+
+calling functions from JavaScript
+
+updating the DOM from JavaScript by setting innerHTML
+

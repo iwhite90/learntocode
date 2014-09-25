@@ -1,0 +1,9 @@
+Refactoring - DRY
+
+Hiding and showing elements
+
+updating DOM style from JavaScript
+
+HTML buttons
+
+CSS id selector
